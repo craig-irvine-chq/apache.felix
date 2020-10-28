@@ -1,0 +1,6 @@
+Bundle-Name: Crucible Lite Client
+Bundle-Description: A bundle that uses the coupler1 service if it finds it at startup
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: tutorial.crucibleLite.CrucibleLite
+Import-Package: org.osgi.framework,tutorial.couplerBase.service

@@ -1,0 +1,6 @@
+Bundle-Name: FortVancouver Coupler 2
+Bundle-Description: A bundle that registers a FortVancouver coupler
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: tutorial.coupler2.FortVancouverV2
+Import-Package: org.osgi.framework,tutorial.couplerBase.service

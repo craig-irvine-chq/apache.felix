@@ -1,0 +1,6 @@
+Bundle-Name: FortVancouver Coupler Interface
+Bundle-Description: A bundle that provides the interface
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Export-Package: tutorial.couplerBase.service
+Import-Package: org.osgi.framework
